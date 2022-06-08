@@ -38,9 +38,6 @@ print("Gender : ",result['gender'])
 
 ## OUTPUT:
 
-1. CODE :
 ![Screenshot (161)](https://user-images.githubusercontent.com/102652887/172640449-eb01179d-8a60-4967-8fb0-fb338ba7d28d.png)
 
-
-2. DEMO VIDEO YOUTUBE LINK:
 
